@@ -5,7 +5,7 @@ import string
 import requests
 from colorama import *
 
-os.system("title Discord Token Brutforce By Arrgonn")
+os.system("title Discord Token Bruteforce By Arrgonn")
 
 id_to_token = base64.b64encode((input("ID TO TOKEN --> ")).encode("ascii"))
 id_to_token = str(id)[2:-1]
