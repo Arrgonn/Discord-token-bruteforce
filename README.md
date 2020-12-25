@@ -4,6 +4,7 @@
 [![Twitter: Arrgonn](https://img.shields.io/twitter/follow/Arrgonn.svg?style=social)](https://twitter.com/Arrgonn)
 
 > This software will allow you to find a user's token but you have to be very lucky
+> (8 841 761 993 739 701 954 543 616 000 000 You have 1 chance in this of finding the right one)
 
 ## 🛠 Install - Linux
 
