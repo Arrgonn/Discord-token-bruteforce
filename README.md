@@ -14,7 +14,7 @@ cd Discord-token-bruteforce
 pip install -r requirements.txt
 ```
 
-## 🛠 Install - Windose
+## 🛠 Install - windows
 ```sh
 Download
 open folder
